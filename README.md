@@ -1,2 +1,2 @@
-# Tip-Calculator
-tip-calculator is a web project that allows users to calculate tips for a given bill amount. Built with HTML, CSS, and JavaScript, it demonstrates creating an interactive user interface and implementing dynamic functionality. The project highlights skills in DOM manipulation, event handling, and applying clean, organized styling to deliver a functional and user-friendly tool.
+# Tip Calculator
+This project allows users to quickly calculate tips based on the bill amount and desired tip percentage. Built with HTML, CSS, and JavaScript, it demonstrates creating an interactive user interface, handling events, and applying clean, organized styling. The project highlights skills in DOM manipulation, dynamic functionality, and delivering a user-friendly tool.
